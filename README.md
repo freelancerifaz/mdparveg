@@ -1,9 +1,6 @@
-Hi there, I'm Parvg👋
+Hi there, I'm Parveg👋
 
-<!--
-**mdparveg/mdparveg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm a 😍😍 JavaScript Lover 😍😍!
 
 - 🔭 I’m currently working on [Programming Hero](https://www.programming-hero.com/)
 - 🌱 I’m currently learning ...
