@@ -1,4 +1,4 @@
-Hi there, I'm Parveg👋
+Hi there, I'm Parvg👋
 
 <!--
 **mdparveg/mdparveg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
